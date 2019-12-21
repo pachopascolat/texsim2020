@@ -1,4 +1,46 @@
-.nav2{
+/*.container {
+     width: 100%;
+     padding-right: 15px;
+     padding-left: 15px;
+     margin-right: auto;
+     margin-left: auto
+ }
+ 
+ @media (min-width: 576px) {
+     .container {
+         max-width: 540px
+     }
+ }
+ 
+ @media (min-width: 768px) {
+     .container {
+         max-width: 720px
+     }
+ }
+ 
+ @media (min-width: 992px) {
+     .container {
+         max-width: 960px
+     }
+ }
+ 
+ @media (min-width: 1200px) {
+     .container {
+         max-width: 1140px
+     }
+ }
+ 
+ .container-fluid {
+     width: 100%;
+     padding-right: 5px;
+     padding-left: 15px;
+     margin-right: auto;
+     margin-left: auto
+ }*/
+
+
+.nav2 {
+    position: relative
     /* background-image: url('../imgHeader2/faja-01.jpg');
     background-size: contain;
     background-position: center;
@@ -9,3 +51,24 @@
     /* height: 200px; */
 }
 
+.absolute-div{
+    position: absolute;
+    top:0;
+    right: 0; 
+        
+}
+
+.nav2-img{
+    height: 120px;
+    object-fit: cover;
+    width: 100%;
+}
+
+
+.nav2 a{
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: 13px;
+}

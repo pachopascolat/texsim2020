@@ -2,10 +2,11 @@
 
     <img src="./imgHeader2/faja-02.jpg" class="nav2-img">
     <div class="absolute-div w-100">
-        <div class="container">
-            <nav class="navbar navbar-expand justify-content-end">
-                <div>
-                    <ul class="navbar-nav mr-auto ">
+        <nav class="navbar navbar-expand">
+            <div class="container">
+
+                <div class="w-100 d-flex justify-content-end">
+                    <ul class="navbar-nav">
                         <li class="nav-item">
                             <a class="" href="#">Novedades</a>
                         </li>
@@ -28,10 +29,11 @@
                                 <i style="" class="fas fa-lock svg-icon "></i>
                                 <span class="d-xs-block d-sm-none">Login</span>
                             </div>
-                        </div>
+                            </div>
                     </ul>
                 </div>
-            </nav>
-        </div>
-    </div>
+                </div>
+
+        </nav>
+</div>
 </div>

@@ -1,4 +1,3 @@
-<h1>hola Mundo</h1>
 <div class="nav2">
 
     <img src="./imgHeader2/faja-02.jpg" class="nav2-img">

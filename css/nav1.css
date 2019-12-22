@@ -1,13 +1,23 @@
 .nav1 { 
     background-color: black;
+    height: 100px;
 }
 
-.logo img {
+.nav1 .logo{
+    margin-right: 2em;
+}
+
+.nav1 form{
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.nav1 .logo img {
     width: 250px;
-    margin-bottom: 8px;
+    margin-bottom: 6px;
 }
 
-.texsim-search-input, .texsim-search-input:focus {
+.texsim-search-input, .texsim-search-input:focus, .texsim-search-input:before {
     background-color: gray;
     border-radius: 0;
     border: 0;
@@ -15,29 +25,43 @@
     box-shadow: none;
     width: 100%;
     height: 40px;
+    outline: none;
+    padding-left: 1em;
 }
 
 .tel {
+    margin-right: 1em;
+    margin-left: 1em;
     color: white;
-    
+    font-family: 'Oswald', sans-serif;
+    font-size: 22px;
+    height: 40px;
+
 }
 
 
 .lupa-icon {
     color: black;
     width: 28px;
-    margin-left: -45px;
+    margin-left: -35px;
     z-index: 10;
     cursor: pointer;
 }
 
-.contenedor-logos a i{
+.contenedor-logos{
+    height: 40px;
+    margin-left: 1em;
+    /*margin-right: 1em;*/
+}
+
+.contenedor-logos a{
+    /*font-family: 'Oswald', sans-serif;*/
     color:white;
     font-size: 24px;
-    margin-right: 1em;
+    margin-left: 1em;
 }
 
 .contenedor-logos img {
-    height: 24px;
-    margin-right: 1em;
+    width:  26px;
+    /*margin-left: 1em;*/
 }

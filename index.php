@@ -2,6 +2,9 @@
 <?php require_once('nav1.php') ?>
 <?php require_once('nav2.php') ?>
     
+
+
+
     </div>
     <div class="container">
   <div class="row">

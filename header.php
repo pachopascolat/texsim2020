@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="css/nav1.css">
     <link rel="stylesheet" href="css/nav2.css">
     <link rel="stylesheet" href="css/dos-filas-regular.css">
+    <link rel="stylesheet" href="css/dos-filas-principal.css">
     <title>Hello, world!</title>
     
   </head>

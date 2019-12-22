@@ -1,0 +1,18 @@
+.dos-filas-principal h1, .dos-filas-principal h2,.dos-filas-principal h3,.dos-filas-principal h4{
+        font-family: 'Oswald', sans-serif;
+        font-weight: 600;
+}
+
+.dos-filas-principal .col {
+    padding:4px;
+}
+
+.cuadricula-principal .principal{
+    padding: 4px;
+}
+
+.cuadricula-principal > .row{
+    margin-left: -4px;
+    margin-right: -4px;
+}
+

@@ -4,6 +4,7 @@
 
     
     <?php require_once('dosFilasRegular.php') ?>
+    <?php require_once('./dosFilasPrincipal.php') ?>
     
 
 

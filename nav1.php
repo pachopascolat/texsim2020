@@ -1,5 +1,5 @@
 
-    <nav class="nav1 navbar navbar-expand">
+    <nav class="nav1 navbar">
         <div class="container">
             <div class="w-100 d-flex justify-content-around align-items-center">
                     <div class="logo">

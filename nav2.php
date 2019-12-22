@@ -16,11 +16,11 @@
     </div>
 
     <div class="absolute-div w-100">
-        <nav class="navbar navbar-expand">
+        <nav class="navbar">
             <div class="container">
 
                 <div class="w-100 d-flex justify-content-end">
-                    <ul class="navbar-nav">
+                    <ul class="navbar-nav navbar-expand">
                         <li class="nav-item">
                             <a class="" href="#">Novedades</a>
                         </li>
@@ -51,9 +51,9 @@
         </nav>
     </div>
     <div class="nav3">
-        <div class="container p-0">
+        <div class="container">
             <div class="d-flex justify-contend-between">
-            <div class="navbar navbar-expand w-100">
+            <div class="navbar navbar-expand w-100 pl-0">
                 <ul class="navbar-nav text-grey">
                     <li class="nav-item">
                         <a class="" href="#">Ordenar Publicaciones</a>

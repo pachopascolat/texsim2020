@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="css/dos-filas-regular.css">
     <link rel="stylesheet" href="css/dos-filas-principal.css">
     <link rel="stylesheet" href="css/dos-filas-iconos.css">
+    <link rel="stylesheet" href="css/fila-imagenes.css">
     <link rel="stylesheet" href="css/footer.css">
     <title>Hello, world!</title>
     

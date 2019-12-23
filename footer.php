@@ -5,7 +5,7 @@
   <div class="container">
     <div  class="d-flex flex-row justify-content-center ">
         <div class="footer-anexo pr-4 pl-4 d-flex align-items-center">
-          <p>Mas informacion  <i class="far fa-chevron-down"></i></p>
+          <span>Mas informacion  <i class="far fa-chevron-down"></i></span>
         </div>
     </div>
   </div>
@@ -13,7 +13,7 @@
   <div class="site-footer">
     <div class="container">
       <!-- row -->
-      <div class="d-flex w-100 flex-row justify-content-around align-items-start ">
+      <div class="d-flex w-100 flex-row justify-content-between align-items-start ">
         <!-- column 1 -->
         <div class="">
           <!-- Links -->

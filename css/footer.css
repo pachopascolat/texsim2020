@@ -1,21 +1,28 @@
+body{
+    background-color: #ededed
+}
 
 .site-footer {
-    background-color: rgb(247, 247, 247);
-    padding-top: 10px;
+    background-color: #f7f7f7;
+    padding-top: 2em;
     line-height: 1;
+    letter-spacing:2px;
+    text-transform: full-width;
 }
 
 .footer-anexo {
     background-color: rgb(247, 247, 247);
 
+
 }
 
-.footer-anexo p {
-    color: rgb(160, 160, 160);
+.footer-anexo span {
+    color: #747474;
     font-size: 10px;
     font-family: Helvetica, Arial, sans-serif;
     text-align: center;
     font-weight: 500;
+    padding: 5px 0;
 }
 
 
@@ -24,7 +31,7 @@
     text-decoration: underline;
     font-size: 14px;
     font-weight: bold;
-    
+
 }
 
 .titulos-f-2{
@@ -32,11 +39,12 @@
     text-decoration: underline;
     font-size: 12px;
     font-weight: 500;
-    
+
 }
 
 .site-footer ul li a {
     line-height: 0rem;
+
 
 }
 .links-footer {
@@ -45,7 +53,11 @@
 }
 
 .copyright {
-    margin: 25px 25px;
+    background-color: white;
+    padding-top: 2em;
+    letter-spacing:1px;
+
+    /*margin: 0 25px;*/
 }
 
 .copyright p {

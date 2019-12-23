@@ -1,0 +1,60 @@
+
+.site-footer {
+    background-color: rgb(247, 247, 247);
+    padding-top: 10px;
+    line-height: 1;
+}
+
+.footer-anexo {
+    background-color: rgb(247, 247, 247);
+
+}
+
+.footer-anexo p {
+    color: rgb(160, 160, 160);
+    font-size: 10px;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-weight: 500;
+}
+
+
+.titulos-f-1{
+    color: rgb(87, 87, 87);
+    text-decoration: underline;
+    font-size: 14px;
+    font-weight: bold;
+    
+}
+
+.titulos-f-2{
+    color: rgb(80, 80, 80);
+    text-decoration: underline;
+    font-size: 12px;
+    font-weight: 500;
+    
+}
+
+.site-footer ul li a {
+    line-height: 0rem;
+
+}
+.links-footer {
+    color:  rgb(100, 100, 100);
+    font-size: 11px;    
+}
+
+.copyright {
+    margin: 25px 25px;
+}
+
+.copyright p {
+    font-family: Helvetica, Arial, sans-serif;
+    color:  rgb(100, 100, 100);
+    font-weight: normal;
+    font-size: 12px;
+}
+
+.links {
+    padding-top: 5px;
+}

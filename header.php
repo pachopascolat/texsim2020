@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="css/nav2.css">
     <link rel="stylesheet" href="css/dos-filas-regular.css">
     <link rel="stylesheet" href="css/dos-filas-principal.css">
+    <link rel="stylesheet" href="css/footer.css">
     <title>Hello, world!</title>
     
   </head>

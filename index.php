@@ -5,7 +5,7 @@
     
     <?php require_once('dosFilasRegular.php') ?>
     <?php require_once('./dosFilasPrincipal.php') ?>
-    <?php require_once('./dosFilasIconos.php') ?>
+    <?php require_once('dosFilasIconos.php') ?>
     <?php require_once('./filaImagenes.php') ?>
     
 

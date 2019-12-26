@@ -17,6 +17,8 @@
     <link rel="stylesheet" href="css/dos-filas-principal.css">
     <link rel="stylesheet" href="css/dos-filas-iconos.css">
     <link rel="stylesheet" href="css/fila-imagenes.css">
+    <link rel="stylesheet" href="css/sidebarMenu.css">
+    <link rel="stylesheet" href="css/7-filas-principal.css">
     <link rel="stylesheet" href="css/footer.css">
     <title>Hello, world!</title>
     

@@ -1,9 +1,9 @@
-<div class="col-md-3" id="leftCol">
-    <nav class="sidebar-menu" id="sidebar">
+<div class="col-md-3 sidebar-menu" id="leftCol">
+    <nav class="" id="sidebar">
         <ul class="list-unstyled components">
-            <li class="pb-3">
+            <li class="pb-2">
                 <a class="sb-titulo " href="#">Ordenar publicacion</a>
-                <ul class="list-unstyled pt-3">
+                <ul class="list-unstyled pt-1">
                     <li>
                         <a class="sb-opciones" href="#">Mas visitadas</a>
                     </li>
@@ -12,9 +12,9 @@
                     </li>
                 </ul>
             </li>
-            <li class="pb-3">
+            <li class="pb-2">
                 <a class="sb-titulo" href="#">Sucursales</a>
-                <ul class="list-unstyled pt-3">
+                <ul class="list-unstyled pt-1">
                     <li>
                         <a class="sb-opciones" href="#">Lavalle</a>
                     </li>
@@ -23,9 +23,9 @@
                     </li>
                 </ul>
             </li>
-            <li class="pb-3">
+            <li class="pb-2">
                 <a class="sb-titulo" href="#">Moda</a>
-                <ul class="list-unstyled pt-3">
+                <ul class="list-unstyled pt-1">
                     <li>
                         <a class="sb-opciones" href="#">Indumentaria</a>
                     </li>
@@ -43,9 +43,9 @@
                     </li>
                 </ul>
             </li>
-            <li class="pb-3">
+            <li class="pb-2">
                 <a class="sb-titulo" href="#">Hogar</a>
-                <ul class="list-unstyled pt-3">
+                <ul class="list-unstyled pt-1">
                     <li>
                         <a class="sb-opciones" href="#">Sabanareia</a>
                     </li>
@@ -68,7 +68,7 @@
             </li>
             <li class="active">
                 <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="sb-titulo dropdown-toggle">Telas</a>
-                <ul class="collapse list-unstyled pt-3 " id="homeSubmenu">
+                <ul class="collapse list-unstyled pt-1 " id="homeSubmenu">
                     <li>
                         <a class="sb-opciones" href="#">Tela 1</a>
                     </li>
@@ -81,28 +81,19 @@
                 </ul>
             </li>
         </ul>
-    </nav>
-    
+    </nav> 
     <div class="row pb-4">
         <div class="col-12">
-            <a href="#" class="sb-img">
+            <a href="#" >
                 <img class="img-fluid"  src="./designs/fibrana/fibrana_003.jpg" alt="">
             </a>
         </div>
     </div>
     <div class="row">
         <div class="col-12">
-            <a href="#" class="sb-img">
+            <a href="#" >
                 <img class="img-fluid"  src="./designs/fibrana/fibrana_003.jpg" alt="">
             </a>
         </div>
-    </div>
-   
-    
-        
-                
-            
-        
-    
-        
+    </div>      
 </div><!--/left-->

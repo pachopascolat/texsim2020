@@ -4,9 +4,8 @@
             <!--left-->
             <?php require_once('./sidebarMenu.php') ?>
             <div class=" col-9">
-                <h2>Fibrana</h2>
-            </div><!--right-->    
-                 
+                <h1 class="pl-1 pb-3">Fibrana </h1>
+                <?php require_once('GridSieteFilas.php') ?>
         </div><!--fin row-->    
     </div>
 </div>   

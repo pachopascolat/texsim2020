@@ -1,24 +1,22 @@
 .sidebar-menu{
     font-family: 'Oswald', sans-serif;
     letter-spacing:1px;
-   
+    width: 50%;
 }
 
-.sb-img{
-    height: 250px;
-    width: 250px;
-    margin-bottom: 6px;
+.sidebar-menu a img {
+    width: 64%;
 }
 .sb-titulo{
     color: rgb(87, 87, 87);
     text-decoration: none;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: bold;
 }
 
 .sb-opciones{
     color:  rgb(120, 120, 120);
     text-decoration: none;
-    font-size: 16spx;
+    font-size: 13px;
     font-weight: lighter;
 }

@@ -15,10 +15,12 @@
     <link rel="stylesheet" href="css/nav2.css">
     <link rel="stylesheet" href="css/dos-filas-regular.css">
     <link rel="stylesheet" href="css/dos-filas-principal.css">
-    <link rel="stylesheet" href="css/dos-filas-iconos.css">
     <link rel="stylesheet" href="css/fila-imagenes.css">
     <link rel="stylesheet" href="css/sidebarMenu.css">
     <link rel="stylesheet" href="css/7-filas-principal.css">
+    <link rel="stylesheet" href="css/carrusel-imagenes.css">
+    <link rel="stylesheet" href="css/dos-filas-iconos.css">
+    <link rel="stylesheet" href="css/fila-imagen-redes-dos.css">
     <link rel="stylesheet" href="css/footer.css">
     <title>Hello, world!</title>
     

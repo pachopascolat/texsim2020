@@ -1,7 +1,6 @@
-<div class="dos-filas-regular">
+<div class="dos-filas-regular mt-5">
     <div class="container">
         <h3>Telas mas pedidas</h3>
-
         <div class="cuadricula-regular">
             <div class="row">
                 <div class="col">
@@ -61,8 +60,6 @@
                     <img class="disenio-img img-fluid" src="designs/fibrana/fibrana_019.jpg">
                 </div>
             </div>
-
-
         </div>
     </div>
 </div>

@@ -1,4 +1,4 @@
-<div class="filaImagenes">
+<div class="filaImagenes mt-5">
     <div class="container">
         <h3>En las Redes</h3>
         <div class= " d-flex flex-row bd-highlight justify-content-between">

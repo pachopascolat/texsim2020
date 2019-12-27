@@ -1,7 +1,6 @@
-<div class="dos-filas-principal">
+<div class="dos-filas-principal mt-5">
     <div class="container">
         <h3>Mira lo nuevo de Fibrana</h3>
-
         <div class="cuadricula-principal">
             <div class="row">
                 <div class="col-4">
@@ -21,7 +20,6 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
                 </div>
                 <div class="col-8">

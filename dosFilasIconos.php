@@ -44,7 +44,7 @@
                 </a>
             </div>
         </div>     <!-- row 1 end -->
-        <div class="row pt-1 ">  <!-- row 2 -->
+        <div class="row pt-1">  <!-- row 2 -->
             <div class="col pl-1 pr-0 ">                                
                 <a href="#!">
                     <img src="./iconosWeb/texsim-tapiceria-01.svg" alt="ketten">

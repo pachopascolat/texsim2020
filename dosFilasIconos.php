@@ -3,7 +3,7 @@
         <h3>Mas telas..</h3>
          <!-- row 1 -->
         <div class="row">
-            <div class="col pl-1 pr-0  ">                                
+            <div class="col pl-1 pr-0 ">                                
                 <a href="#!">
                     <img  src="./iconosWeb/texsim-ketten-01.svg" alt="ketten">
                 </a>

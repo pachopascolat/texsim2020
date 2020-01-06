@@ -1,0 +1,12 @@
+.nav-buscador nav{
+    background-color: rgb(0, 175, 238);
+    color: rgb(0, 175, 238);
+}
+
+
+
+.nav-buscador input {
+    background-color: rgb(0, 175, 238);
+    border: 1px solid ;
+    border-color: rgb(37, 188, 241);
+}

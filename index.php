@@ -1,4 +1,6 @@
 <?php require_once('header.php') ?>
+<?php require_once('nav1Mobile.php') ?>
+<?php require_once('navBuscador.php') ?>
 <?php require_once('nav1.php') ?>
 <?php require_once('nav2.php') ?>
 

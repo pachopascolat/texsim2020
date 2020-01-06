@@ -19,7 +19,7 @@
         <nav class="navbar">
             <div class="container">
 
-                <div class="w-100 d-flex justify-content-end">
+                <div class="w-100 d-none d-lg-flex justify-content-end">
                     <ul class="navbar-nav navbar-expand">
                         <li class="nav-item">
                             <a class="" href="#">Novedades</a>
@@ -52,7 +52,7 @@
     </div>
     <div class="nav3">
         <div class="container">
-            <div class="d-flex justify-contend-between">
+            <div class=" d-none d-lg-flex justify-contend-between">
             <div class="navbar navbar-expand w-100 pl-0">
                 <ul class="navbar-nav text-grey">
                     <li class="nav-item">

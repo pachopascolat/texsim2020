@@ -1,7 +1,14 @@
 .nav1 { 
     background-color: rgb(35, 31, 31);
-    height: 90px;
 }
+
+@media (min-width: 992px) {
+    .nav1{
+        height: 90px;
+        
+    }
+}
+
 
 .nav1 .logo{
     margin-right: 2em;
@@ -14,6 +21,15 @@
 
 .nav1 .logo img {
     width: 250px;
+    margin-bottom: 6px;
+}
+
+.nav1 .logo-mobile  {
+    width: 60%;
+    
+}
+.nav1 .logo-mobile img {
+    width: 100%;
     margin-bottom: 6px;
 }
 
@@ -64,4 +80,22 @@
 .contenedor-logos img {
     width:  26px;
     /*margin-left: 1em;*/
+}
+
+.nav1 button{
+    border: none;
+    font-size: 2rem;
+}
+.boton-mobile{
+    color: white;
+    border: none;
+}
+ 
+.nav-mobile {
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.nav-mobile a {
+    color: white;
 }

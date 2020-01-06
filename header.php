@@ -13,6 +13,7 @@
     <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/nav1.css">
     <link rel="stylesheet" href="css/nav2.css">
+    <link rel="stylesheet" href="css/nav-buscador.css">
     <link rel="stylesheet" href="css/dos-filas-regular.css">
     <link rel="stylesheet" href="css/dos-filas-principal.css">
     <link rel="stylesheet" href="css/fila-imagenes.css">

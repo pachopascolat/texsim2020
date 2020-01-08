@@ -58,3 +58,35 @@
     text-decoration: none
         
 }
+.nav3-mobile ul li {
+    
+    text-align: center;
+    height: 100px;
+    width: 100%;
+    padding-right: 15px;
+
+}
+
+
+.nav3-mobile ul li:last-child {
+    padding-right: 0px;
+    
+}
+
+.nav3-mobile ul li a span {
+    font-size: 20px;
+    margin-top: 10px ;
+    text-align: center;
+    color: gray;
+    display: inline-flex;
+}
+
+.img-nav3-mobile {
+    border-radius: 50px;
+    height:70px ;
+    
+}
+
+.img-banner img{
+    height: 70px;
+}

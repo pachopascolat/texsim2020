@@ -1,5 +1,5 @@
 <!--Navbar-->
-<nav class="d-lg-none nav1 navbar navbar-light light-blue lighten-4">
+<nav class="d-lg-none nav1  navbar navbar-light light-blue lighten-4">
     <div class="container">
 
 
@@ -7,7 +7,7 @@
 
         <!-- Navbar brand -->
         <div class="logo-mobile ">
-            <a class="navbar-brand d-flex" href="#"><img class="img-fluid" src="./imgHeader1/logotexsim-02.svg" alt="Logo Texsim"></a>
+            <a class="navbar-brand d-flex " href="#"><img class="img-fluid" src="./imgHeader1/logotexsim-02.svg" alt="Logo Texsim"></a>
         </div>
 
         <div class="tel nav-item d-none d-md-flex">

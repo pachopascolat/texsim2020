@@ -1,5 +1,5 @@
  <!-- Footer -->
-<footer class="page-footer font-small indigo">
+<footer class="page-footer font-small indigo d-none d-lg-flex">
 
   <!-- Footer anexo -->
   <div class="container">
